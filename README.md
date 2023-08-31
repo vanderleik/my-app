@@ -42,4 +42,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Não deu muito certo o CSS. Preciso corrigir ainda algumas coisas!!
 
-[Alt text](image.png)
+![Alt text](image-1.png)
